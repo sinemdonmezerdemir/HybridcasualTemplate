@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadScene.unity
     guid: ddbb05a802350fc4694cb35852eead01
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Design.unity
-    guid: c6cd7edeafbb23945b783b1257e365bf
+    guid: 7bd35872eb699704287734ab9ea12403
   - enabled: 1
-    path: Assets/Scenes/Template.unity
-    guid: 8713fde62c029e343be523dfbbef90d5
+    path: Assets/Scenes/Development.unity
+    guid: c8707036f5eb0e149b9fde2c78c40555
   m_configObjects: {}
